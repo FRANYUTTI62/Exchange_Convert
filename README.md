@@ -20,24 +20,13 @@ This project is a Currency Converter Application that uses the [ExchangeRate API
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/your-username/currency-converter.git
-   cd currency-converter
+   git clone https://github.com/your-username/Exchange_Convert.git
+   cd Exchange_Convert
    ```
 
 2. **Add API Key**
    - Sign up at [ExchangeRate API](https://exchangerate-api.com) to obtain your API key.
-   - Add your API key in the application code at the specified placeholder (e.g., replace `YOUR_API_KEY_HERE`).
-
-3. **Compile and Run**
-   - Open a terminal and navigate to the project directory.
-   - Compile the code using:
-     ```
-     javac CurrencyConverter.java
-     ```
-   - Run the application:
-     ```
-     java CurrencyConverter
-     ```
+   - Add your API key in the application code at the specified placeholder (e.g., replace `API_KEY`).
 
 ### Usage
 1. The program will prompt you to enter a source currency code (e.g., "USD").
